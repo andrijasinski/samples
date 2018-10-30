@@ -15,7 +15,7 @@ dependencies:
 dev_dependencies:
   analyzer: 0.33.0
   build_runner: '>=0.9.0 <0.11.0'
-  built_value_generator: 6.1.4
+  built_value_generator: 6.1.5
   json_serializable: ^1.0.0
 
   flutter_test:
